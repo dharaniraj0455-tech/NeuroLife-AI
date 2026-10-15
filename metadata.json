@@ -1,0 +1,6 @@
+{
+  "name": "NeuroLife AI - Stroke Rehabilitation & Emergency Monitoring",
+  "description": "AI-driven stroke rehabilitation platform featuring real-time eye-blink EAR emergency detection, voice SOS listener, daily care routines, clinician CCTV surveillance, and dedicated patient and admin login portals.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
